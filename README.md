@@ -54,3 +54,4 @@ class About extends Me {
 ✨ "Turning ideas into code & data into insights" ✨  
 
 </div>
+
