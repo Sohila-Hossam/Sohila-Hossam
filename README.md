@@ -33,7 +33,6 @@
 ## 🚀 Featured Projects  
 
 - [login-simple project](https://sohila-hossam.github.io/login/) 
-- [📊 Exam Scheduler](https://github.com/sohilahossam/exam-scheduler) → Graph coloring algorithm for scheduling exams  
 - [Simple Crud System](https://sohila-hossam.github.io/Crud-System/)  
 
 
